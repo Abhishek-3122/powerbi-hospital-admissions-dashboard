@@ -33,4 +33,5 @@ for demonstration purposes only.
 
 ## Dashboard Preview
 ![Overview](screenshots/overview.png)
-![Trends](screenshots/trends.png)
+![Key Trends](screenshots/key_trends.png)
+
